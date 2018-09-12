@@ -1,7 +1,11 @@
 # GIT & GITFLOW
 
 ## Parte 2 
-
+    Definir as funcoes na main:
+    - [ ] soma
+    - [ ] subtração
+    - [ ] multiplicação
+    - [ ] divisão
 
 ### Comandos:
 ```
