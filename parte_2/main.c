@@ -4,10 +4,19 @@ int sum(int x, int y ){
 	return x+y;
 }
 int sub(int, int);
+<<<<<<< HEAD
+int mul(int, int);
+int div(int x, int y){
+	if(y != 0){
+		return x/y;
+}
+
+=======
 int mul(int x, int y){
 	return x*y;
 }
 int div(int, int);
+>>>>>>> af851a963ac02bf7c2bb6eeb8cb23264a9e08993
 
 int main() {
     printf("4 + 2 = %d\n", sum(4, 2));
