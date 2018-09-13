@@ -2,7 +2,9 @@
 
 int sum(int, int);
 int sub(int, int);
-int mul(int, int);
+int mul(int x, int y){
+	return x*y;
+}
 int div(int, int);
 
 int main() {
