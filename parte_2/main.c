@@ -3,7 +3,11 @@
 int sum(int, int);
 int sub(int, int);
 int mul(int, int);
-int div(int, int);
+int div(int x, int y){
+	if(y != 0){
+		return x/y;
+}
+
 
 int main() {
     printf("4 + 2 = %d\n", sum(4, 2));
