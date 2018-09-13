@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int sum(int, int);
+int sum(int x, int y ){
+	return x+y;
+}
 int sub(int, int);
 int mul(int x, int y){
 	return x*y;
