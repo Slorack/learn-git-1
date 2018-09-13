@@ -1,4 +1,7 @@
 # GIT & GITFLOW
+
+# ESTAMOS NA BRANCH DO RICARDO
+
 ## Parte 1
 Defina as funções abaixo, faça o commit e em seguida o push das alterações
 
